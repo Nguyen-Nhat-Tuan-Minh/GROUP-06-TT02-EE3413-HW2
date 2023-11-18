@@ -152,6 +152,7 @@ CMDWRITE:
 		CBI LCD_PORT, LCD_EN ; EN=0 FOR H-to-L PULSE
 		RCALL DELAY_100us
 		RET
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DATAWRITE:
 		RCALL DELAY_20ms
