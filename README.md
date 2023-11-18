@@ -1,4 +1,4 @@
-# Project README
+# SERIAL COMMUNICATION PROJECT
 
 ## Project Overview
 
