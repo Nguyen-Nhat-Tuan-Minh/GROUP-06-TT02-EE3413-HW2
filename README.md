@@ -74,5 +74,3 @@ This project owes gratitude to the following resources:
 ATmega164A/PA/324A/PA/644A/PA/1284/P Datasheet: The comprehensive documentation provided by Microchip served as an invaluable reference, guiding the understanding and implementation of features specific to the microcontroller.
 
 Microprocessor EE3413 Course at HCMUT: The knowledge gained from the Microprocessor EE3413 course at Ho Chi Minh City University of Technology (HCMUT) greatly influenced the design and execution of this project. The course materials and resources played a pivotal role in shaping the technical aspects of the code and system architecture.
-
-These acknowledgments reflect the project reliance on external references and educational resources, emphasizing the collaborative nature of knowledge acquisition and application in the field of microprocessor systems.
