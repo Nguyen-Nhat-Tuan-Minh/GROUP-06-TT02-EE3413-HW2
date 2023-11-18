@@ -1,4 +1,3 @@
-```nasm
 ; CHIP_MASTER.asm
 ;
 ; Created: 11/15/2023 8:08:24 PM
@@ -243,4 +242,3 @@ END:
 		LDI TEMP, (1 << INTF0)
 		OUT EIFR, TEMP ; CLEAR INT0 INTERRUPT MANUALLY
 		RETI
-```
