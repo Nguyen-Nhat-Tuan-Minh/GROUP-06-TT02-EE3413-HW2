@@ -54,7 +54,6 @@ INIT_SSPI:
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 SSPI_RECEIVE:
-		;CALL INIT_SSPI
 		OUT SPDR0, DATA_TEMP ; STORE KEY VALUE IN SLAVE
 		CBI SPI_PORT, SIGNAL 
 
